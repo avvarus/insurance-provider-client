@@ -40,7 +40,7 @@ public class InsuranceProviderClientApplication {
         return getResponseEntity();
     }
 
-    /**
+    /** response entity is as same as List<></>
      * @return
      */
     private ResponseEntity getResponseEntity() {
